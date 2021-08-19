@@ -2,5 +2,5 @@ Jess Resolution :
 - know more about GIT
 - Linux
 - C++
-- Java 
 - Json script 
+- API
