@@ -1,0 +1,4 @@
+Jess Resolution :
+- know more about GIT
+- Linux
+- C++
